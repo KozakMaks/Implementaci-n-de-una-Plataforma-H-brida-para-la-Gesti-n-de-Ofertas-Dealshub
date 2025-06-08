@@ -30,6 +30,8 @@ Dealshub es el proyecto de fin de grado en Desarrollo de Aplicaciones Multiplata
 ## Demo en producción
 
 - Web: [https://dealhub-tfg.vercel.app/](https://dealhub-tfg.vercel.app/)
+- ![image](https://github.com/user-attachments/assets/600e6516-5599-4fa2-8a9d-386f567740e6)
+
 
 ## Repositorio
 
